@@ -10,7 +10,7 @@ Perform Exploratory Data Analysis , Data Cleaning & Feature Engg on the Training
 
 * Perform Bi-variate Analysis among all Independent variables.Draw appropriate Plots , mention observations 
 
-* Perform Bi-variate Analysis between Target Variable and each Independent variable. Use suitable plot , mention observations.trends etc
+* Perform Bi-variate Analysis between Target Variable and each Independent variable. Use suitable plot , mention observations,trends etc
 
 * How is the class distribution (Y/N) in Label(Target) Variable ?
 
